@@ -21,6 +21,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
 output:
 Enter any number: 22
 Number is not divisible by 5 and 11
